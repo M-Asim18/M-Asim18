@@ -96,7 +96,7 @@ Final Year Project building a fault-tolerant streaming data pipeline with automa
 
 **Target Metric:** ⏱️ Mean Time To Acknowledge (MTTA) ≤ 33 seconds
 
-**[📂 View Repository](#)** • **[📝 Manuscript in Preparation]**
+**[📂 View Repository](https://github.com/Spectre206/fyp-pipeline)** • **[📝 Manuscript in Preparation]**
 
 ---
 
@@ -109,7 +109,7 @@ Built a custom command-line shell from scratch supporting:
 - Background execution (`&`)
 - Built-in commands (`cd`, `exit`, `echo`)
 
-**[📂 View Repository](#)**
+**[📂 View Repository](https://github.com/M-Asim18/Custom-Linux-Shell)**
 
 ---
 
@@ -118,7 +118,7 @@ Built a custom command-line shell from scratch supporting:
 
 Developed a computer vision system for fruit classification and ripeness detection using custom CNN architectures and transfer learning with MobileNetV2.
 
-**[📂 View Repository](#)**
+**[📂 View Repository](https://github.com/M-Asim18/FreshCheck_Hybrid)**
 
 ---
 
@@ -132,7 +132,7 @@ Desktop application supporting:
 - Loan tracking
 - Full CRUD operations
 
-**[📂 View Repository](#)**
+**[📂 View Repository](https://github.com/M-Asim18/Library-Management-System)**
 
 ---
 
