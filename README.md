@@ -17,15 +17,13 @@ The repository name must EXACTLY match your GitHub username.
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at **UET Peshawar (Nowshera Campus)** who enjoys building software from the application layer down to the operating system.
+I'm a Computer Science student who enjoys understanding how software works beyond the surface — from writing code and designing backend services to exploring what happens underneath the operating system.
 
-🔹 Built a **custom Linux shell in C** from scratch  
-🔹 Developed **deep learning models** for computer vision  
-🔹 Built **backend applications** with Python, Django, and MySQL  
-🔹 Currently working on a **distributed self-healing data pipeline** (FYP)
+My main interests are **backend development, systems programming, and Linux**. I've built projects ranging from a **custom Linux shell in C** and Linux automation tools to **Django-based applications** and machine learning systems. I'm currently working on a **distributed self-healing data pipeline** as my final year project, where I'm exploring fault tolerance, anomaly detection, and automated recovery in streaming systems.
 
-> *"I want to be the engineer who understands not just how to build applications, but how they run — from processes and memory management to backend services and distributed infrastructure."*
+I learn best by building things, breaking them, understanding why they fail, and improving how they work — whether it's a segmentation fault in C or a slow database query. I'm currently deepening my knowledge of **Linux internals, distributed systems, system design, and performance engineering**.
 
+My long-term goal is to become a **systems-oriented software engineer** who can build reliable software and understand the layers that make it run — from processes and memory to backend services and distributed infrastructure.
 ---
 
 ## 🛠️ Tech Stack
